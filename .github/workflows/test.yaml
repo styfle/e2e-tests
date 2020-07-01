@@ -310,6 +310,7 @@ jobs:
           - docker-pgbouncer
           - heroku-pgbouncer
           - heroku-pgbouncer-buildpack
+          - bedrock
 
     name: databases ${{ matrix.database }}
     steps:
