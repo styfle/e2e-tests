@@ -139,15 +139,15 @@
     lodash.camelcase "^4.3.0"
     protobufjs "^6.8.6"
 
-"@prisma/cli@2.2.0-dev.34":
-  version "2.2.0-dev.34"
-  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.2.0-dev.34.tgz#86e19c3aa547131fefd6af19029a6688525f6aba"
-  integrity sha512-w2WG+8Pg6Z1C3vS8NHInxX40vyVPX3bvW1oWrMCfT4Ov1d/GGxAg2a/5aCNPkEP7ImPBLnCZy60RmZkKZjLjwg==
+"@prisma/cli@2.2.0-dev.60":
+  version "2.2.0-dev.60"
+  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.2.0-dev.60.tgz#7f8f394d2657ef5f2ccd1f18f577c40fc77a4d9c"
+  integrity sha512-A1H7SqsewtlJaNDf5qyptk3iB//8TwCw1uO5SCUJH5ogj5cUlrVeUStnuWujDtMKcF2RYDhyktspe/rwr5YX3w==
 
-"@prisma/client@2.2.0-dev.34":
-  version "2.2.0-dev.34"
-  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.2.0-dev.34.tgz#756c0205cc8f2bd435c9fbf4cd14e1103e270976"
-  integrity sha512-hQuJbXRlAOR2LphTjA72Q+KEt5lUdVZqfEBon7ihhh6IFlz67Eu91/oswZhKh62xA5L2ziCBXTrpFsPjZgF3ng==
+"@prisma/client@2.2.0-dev.60":
+  version "2.2.0-dev.60"
+  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.2.0-dev.60.tgz#b728a732515fa266ef73c61a3c5bbbb0916b39ba"
+  integrity sha512-BtrBfRWO8ZNhb/0F52Jd52pF1JubA4gsCCdOpIzcd/94N0k6LmRy6LoqanC9F6giaSoJp5pmn81s9a9KdcEDDg==
   dependencies:
     pkg-up "^3.1.0"
 
@@ -232,7 +232,7 @@
     "@types/node" "*"
     "@types/range-parser" "*"
 
-"@types/express@^4.17.3":
+"@types/express@4.17.3":
   version "4.17.3"
   resolved "https://registry.yarnpkg.com/@types/express/-/express-4.17.3.tgz#38e4458ce2067873b09a73908df488870c303bd9"
   integrity sha512-I8cGRJj3pyOLs/HndoP+25vOqhqWkAZsWMEmq1qXy/b/M3ppufecUwaK2/TVDVxcV61/iSdhykUjQQ2DLSrTdg==
@@ -709,15 +709,14 @@ firebase-functions-test@0.2.1:
     "@types/lodash" "^4.14.104"
     lodash "^4.17.5"
 
-firebase-functions@3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/firebase-functions/-/firebase-functions-3.6.0.tgz#10fb2a46d13625a88299bbf9176750315f9da628"
-  integrity sha512-8S70Pq5nOblDKmBExq2CAgBMq+L8IDOcv10HfpDWGtgK5IpYlP0BKcchXYXcyjHtIG7xWHtR9oBLVtXFUiTp3A==
+firebase-functions@3.7.0:
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/firebase-functions/-/firebase-functions-3.7.0.tgz#e9df62f2a46775eb887835839d8b3f39139ba113"
+  integrity sha512-+ROj2Gs2/KyM+T8jYo7AKaHynFsN49sXbgZMll3zuGa9/8oiDsXp9e1Iy2JMkFmSZg67jeYw5Ue2OSpz0XiqFQ==
   dependencies:
-    "@types/express" "^4.17.3"
+    "@types/express" "4.17.3"
     cors "^2.8.5"
     express "^4.17.1"
-    jsonwebtoken "^8.5.1"
     lodash "^4.17.14"
 
 forwarded@~0.1.2:
@@ -1688,10 +1687,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@3.9.5:
-  version "3.9.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.5.tgz#586f0dba300cde8be52dd1ac4f7e1009c1b13f36"
-  integrity sha512-hSAifV3k+i6lEoCJ2k6R2Z/rp/H3+8sdmcn5NrS3/3kE7+RyZXm9aqvxWqjEXHAd8b0pShatpcdMTvEdvAJltQ==
+typescript@3.9.6:
+  version "3.9.6"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.6.tgz#8f3e0198a34c3ae17091b35571d3afd31999365a"
+  integrity sha512-Pspx3oKAPJtjNwE92YS05HQoY7z2SFyOpHo9MqJor3BXAGNaPUs83CuVp9VISFkSjyRfiTpmKuAYGJB7S7hOxw==
 
 unique-string@^2.0.0:
   version "2.0.0"
