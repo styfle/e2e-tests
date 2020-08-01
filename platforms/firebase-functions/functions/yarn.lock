@@ -137,15 +137,15 @@
     lodash.camelcase "^4.3.0"
     protobufjs "^6.8.6"
 
-"@prisma/cli@2.4.0-dev.8":
-  version "2.4.0-dev.8"
-  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.4.0-dev.8.tgz#483c999a72094304800862f3a6c55031454f1253"
-  integrity sha512-N2xasiDVz3+V99IHqjsrzEa4llYKHLD41vD7g3goxQ+8JzddE17yMKXJt6Oilcv1cJmcv66CvfmqE39CbvIIPw==
+"@prisma/cli@2.4.0-dev.41":
+  version "2.4.0-dev.41"
+  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.4.0-dev.41.tgz#957ca4dbb3d805151fa0d719143f64d93481cc0e"
+  integrity sha512-CCZzRzc+Vs71U3mi35hoCLEZdoyIrPNa+Dz7/gy6H3Ru4XolDVgZkGU/eRKvdVGj1N7NgZpAaeWUXp4Cdz2raA==
 
-"@prisma/client@2.4.0-dev.8":
-  version "2.4.0-dev.8"
-  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.4.0-dev.8.tgz#7e4a98e9a619012cce0a4dbbdef56489f0856f5b"
-  integrity sha512-mbbN6YUYA9dAKawKNjbOislK1v2tB6VOtzjbx2FpRzqFX7KBHTrBns7NQOS543GyA0aq8nLIcK3jeyWRjd8BLg==
+"@prisma/client@2.4.0-dev.41":
+  version "2.4.0-dev.41"
+  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.4.0-dev.41.tgz#39e22bbdd721bb488f25f183aeecd0ce6b6d333e"
+  integrity sha512-Q1V4jMdkGKOKNsJVhMPXwThXzAWyo7jyOYKN+MA8/jtagt+MsRPvZyc9RJhoKHu7Ov4V3fMIHUbTgGMTj68Wjg==
   dependencies:
     pkg-up "^3.1.0"
 
@@ -646,10 +646,10 @@ firebase-functions-test@0.2.1:
     "@types/lodash" "^4.14.104"
     lodash "^4.17.5"
 
-firebase-functions@3.8.0:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/firebase-functions/-/firebase-functions-3.8.0.tgz#ac53c615ef365cd9a19604f84ec9835a340c7b76"
-  integrity sha512-RFvoS7ZcXrk2sQ918czsjv94p4hnSoD0/e4cZ86XFpa1HbNZBI7ZuSgBCzRvlv6dJ1ArytAL13NpB1Bp2tJ6Yg==
+firebase-functions@3.9.0:
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/firebase-functions/-/firebase-functions-3.9.0.tgz#b010c0d48cb78e80bf454b6b4ac065bfd5ccb029"
+  integrity sha512-PHwEvm/c0CNWFxfilmhyZBu5pZlQ2EJk/W4G2yKUm2yHGuh2ZZcga0s4Tj52vllX2eE+NkAsDsJpGdnjljA6+Q==
   dependencies:
     "@types/express" "4.17.3"
     cors "^2.8.5"

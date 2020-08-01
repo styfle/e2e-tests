@@ -2,22 +2,22 @@
 # yarn lockfile v1
 
 
-"@prisma/cli@2.4.0-dev.8":
-  version "2.4.0-dev.8"
-  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.4.0-dev.8.tgz#483c999a72094304800862f3a6c55031454f1253"
-  integrity sha512-N2xasiDVz3+V99IHqjsrzEa4llYKHLD41vD7g3goxQ+8JzddE17yMKXJt6Oilcv1cJmcv66CvfmqE39CbvIIPw==
+"@prisma/cli@2.4.0-dev.41":
+  version "2.4.0-dev.41"
+  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.4.0-dev.41.tgz#957ca4dbb3d805151fa0d719143f64d93481cc0e"
+  integrity sha512-CCZzRzc+Vs71U3mi35hoCLEZdoyIrPNa+Dz7/gy6H3Ru4XolDVgZkGU/eRKvdVGj1N7NgZpAaeWUXp4Cdz2raA==
 
-"@prisma/client@2.4.0-dev.8":
-  version "2.4.0-dev.8"
-  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.4.0-dev.8.tgz#7e4a98e9a619012cce0a4dbbdef56489f0856f5b"
-  integrity sha512-mbbN6YUYA9dAKawKNjbOislK1v2tB6VOtzjbx2FpRzqFX7KBHTrBns7NQOS543GyA0aq8nLIcK3jeyWRjd8BLg==
+"@prisma/client@2.4.0-dev.41":
+  version "2.4.0-dev.41"
+  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.4.0-dev.41.tgz#39e22bbdd721bb488f25f183aeecd0ce6b6d333e"
+  integrity sha512-Q1V4jMdkGKOKNsJVhMPXwThXzAWyo7jyOYKN+MA8/jtagt+MsRPvZyc9RJhoKHu7Ov4V3fMIHUbTgGMTj68Wjg==
   dependencies:
     pkg-up "^3.1.0"
 
-"@types/node@12.12.52":
-  version "12.12.52"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.52.tgz#ed7a845116bf496a9937228cb9c2a0f74092aeb1"
-  integrity sha512-oNJSI5bzuAH4f4I5JatPf4jytM6vQPWMw8JDOH68mNMyOmSqBkctHBfsyaBU3Su+dhYd8E+tDtPJWUXsyO5Msg==
+"@types/node@12.12.53":
+  version "12.12.53"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.53.tgz#be0d375933c3d15ef2380dafb3b0350ea7021129"
+  integrity sha512-51MYTDTyCziHb70wtGNFRwB4l+5JNvdqzFSkbDvpbftEgVUBEE+T5f7pROhWMp/fxp07oNIEQZd5bbfAH22ohQ==
 
 arg@^4.1.0:
   version "4.1.3"
